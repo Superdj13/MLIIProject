@@ -20,7 +20,4 @@ Also, be sure to include the dataset csv file in the same directory as the noteb
 
 The deepfool.py file is a version of the code found in https://github.com/LTS4/DeepFool/blob/master/Python/deepfool.py slightly altered by me in order to use GPU capabilities and must be included in the same directory as the notebook.
 
-# ATENTION
-
-In the ./runs file you can find all the runs that I use to write the report included the training runs, which I don't include there. Be aware that running this code will overwrite those.
 
