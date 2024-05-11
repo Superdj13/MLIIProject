@@ -1,0 +1,15 @@
+name: TorchEnv
+channels:
+- conda-forge
+- pytorch
+dependencies:
+- ffmpeg
+- jupyterlab
+- librosa
+- pytorch==2.0.0
+- pytorch-cuda=11.7
+- sympy
+- tensorboard
+- torchaudio
+- torchvision==0.15.0
+
