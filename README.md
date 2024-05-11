@@ -1,3 +1,6 @@
+
+# Project on the UrbanSound8K Dataset and how DeepFool highlights the tradeoff between model complexity and robustness.
+
 This file comes with a Jupyter Notebook that includes the code of Training/Validation/Testing of the Neural Networks described in the Report. It may take some time to run.
 
 In order to use the code, be sure to use the environment with the dependencies in the TorchEnv.yaml file by entering in the console (with anaconda for example):
